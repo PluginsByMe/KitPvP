@@ -56,10 +56,3 @@ Mad Kit 100000 coins (Honestly, the stuff in this kit is crazy)<br>
 
 # Licence
 http://choosealicence.com/no-license/
-
-# Credits:
-### Roles: Translated from german and rewrote a lot
-## Name: TheRoyalBlock
-<br><br>
-### Roles: Coded the base of the plugin, but left it very unfinished
-## Name: BlawoHD
