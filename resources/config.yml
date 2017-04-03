@@ -1,0 +1,18 @@
+###############################
+# Main Config file for KitPvP #
+#       By TheRoyalBlock      #
+###############################
+
+###############################
+# The prefix will come before #
+# all of the messages sent by #
+# the plugin. For colors, use #
+#   this sign § and use this  #
+# article to help you figure  #
+#   out how the colors work.  #
+#    https://goo.gl/9iSPls    #
+#  Please note, the space at  #
+#  the end is necessary for   #
+#      proper formatting.     #
+###############################
+Prefix: '§7[§cKitPvP§7] §f'
